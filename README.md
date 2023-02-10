@@ -1,6 +1,7 @@
-Simple Shell Group Project
 
- @ALX Group Members : Lilian Quarshie & Joshua Ryan Akakpo
+Simple Shell Team Project
 
-0x16. C - Simple Shell
+Authors: Lilian Banini Quarshie
+       : Joshua Ryan Akakpo
 
+0x16. C - simple shell
