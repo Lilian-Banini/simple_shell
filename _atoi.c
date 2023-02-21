@@ -71,4 +71,4 @@ int _atoi(char *s)
 		output = result;
 
 	return (output);
-} /*by Joshua Ryan Akakpo and Lilian Banini Quarshie*/
+}
