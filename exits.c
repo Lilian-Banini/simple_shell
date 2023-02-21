@@ -1,6 +1,6 @@
 #include "shell.h"
 
-/**
+/** by lilian and joshua
  **_strncpy - copies a string
  *@dest: the destination string to be copied to
  *@src: the source string
